@@ -1,0 +1,12 @@
+Django>=4.0
+djangorestframework
+gunicorn
+psycopg2-binary
+python-dotenv
+python-decouple
+django-cors-headers
+Pillow
+pytest
+pytest-django
+PyJWT
+djangorestframework-simplejwt

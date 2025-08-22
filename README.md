@@ -10,15 +10,6 @@ A full-stack programming learning platform with a **React frontend** and **Djang
 - **APIs**: RESTful API communication
 - **Deployment**: Docker & Docker Compose
 
-## Project Structure
-```
-
-├── djangobackend/     # Django backend
-├── my-tool/           # React frontend
-├── docker-compose.yml # Docker configuration
-
-````
-
 ## Requirements
 - Node.js >= 18
 - Python >= 3.10
